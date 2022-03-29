@@ -1,3 +1,3 @@
 # To-Do-List
-i did my to do list using simple HTML. CSS.
+created my to do list using simple HTML. CSS.
 Storing Data in Local Storage using JavaScript.
